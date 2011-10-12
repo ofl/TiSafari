@@ -1,0 +1,6 @@
+Titanium mobileで作ったmobile safariクローンです(iOS専用)。
+CoffeeScriptで書いてあるためJavascriptでは若干読みづらいかと思います。
+コードに関して質問があればtwitter(@towerofl)できいてください。
+
+当然iTunes Storeには未登録で、フォークやコードの再利用についてはどうぞご自由に。
+ライセンスはTitaniuimと同様Apache License, Version 2.0とさせていただきます。
